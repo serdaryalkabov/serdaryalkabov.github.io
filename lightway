@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Lightway</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        h1, h2 {
+            color: #222;
+        }
+        h1 {
+            margin-bottom: 10px;
+        }
+        p {
+            margin: 10px 0;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        footer {
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #666;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Privacy Policy</h1>
+    <p><strong>Last updated:</strong> [Date]</p>
+
+    <p>
+        This Privacy Policy explains how <strong>Lightway</strong> ("the App")
+        handles user information during its use.
+    </p>
+
+    <h2>1. Information Collection and Use</h2>
+    <p>
+        Lightway allows users to voluntarily enter information such as:
+    </p>
+    <ul>
+        <li>Favorite books, movies, subjects, and hobbies</li>
+        <li>Country or region</li>
+        <li>Languages spoken</li>
+        <li>Academic grades or performance information</li>
+    </ul>
+    <p>
+        This information is used solely to generate personalized recommendations
+        for suitable university majors and institutions.
+    </p>
+
+    <h2>2. Data Storage</h2>
+    <p>
+        All user-entered data is stored locally on the user’s device.
+        The App does not permanently store personal data on external servers
+        or developer-controlled databases.
+    </p>
+
+    <h2>3. Use of OpenAI API</h2>
+    <p>
+        To generate recommendations, Lightway sends relevant user-provided
+        information to the OpenAI API for processing.
+    </p>
+    <ul>
+        <li>Data is transmitted securely</li>
+        <li>Data is used only to generate responses</li>
+        <li>The developer does not retain copies of this data on external servers</li>
+    </ul>
+    <p>
+        OpenAI’s handling of data is governed by their own Privacy Policy:
+        <a href="https://openai.com/policies/privacy" target="_blank">
+            https://openai.com/policies/privacy
+        </a>
+    </p>
+
+    <h2>4. Data Sharing</h2>
+    <p>
+        Lightway does not sell, rent, or share personal data with third parties,
+        except as required to provide its core functionality through the OpenAI API.
+    </p>
+
+    <h2>5. Log Data</h2>
+    <p>
+        In case of an application error, the App may collect anonymous technical
+        data such as crash logs to improve performance and stability.
+        This data does not personally identify users.
+    </p>
+
+    <h2>6. Data Security</h2>
+    <p>
+        Reasonable security measures are used to protect data during transmission.
+        However, no method of electronic transmission or storage is completely secure.
+    </p>
+
+    <h2>7. Children’s Privacy</h2>
+    <p>
+        Lightway is not intended for children under the age of 13.
+        The App does not knowingly collect personal information from children.
+    </p>
+
+    <h2>8. User Control</h2>
+    <p>
+        Users can modify or delete their information at any time within the App.
+        Uninstalling the App will remove all locally stored data.
+    </p>
+
+    <h2>9. Changes to This Privacy Policy</h2>
+    <p>
+        This Privacy Policy may be updated from time to time.
+        Any changes will be posted on this page with an updated revision date.
+    </p>
+
+    <h2>10. Contact Information</h2>
+    <p>
+        If you have any questions about this Privacy Policy, please contact:
+    </p>
+    <p>
+        <strong>Email:</strong> [your email address]
+    </p>
+
+    <footer>
+        © [Year] Lightway. All rights reserved.
+    </footer>
+</div>
+
+</body>
+</html>
